@@ -6,6 +6,11 @@ footer{
     background: #00415A;
     height: auto
 }
+.label-umum{
+    font-style: normal;
+    font-size: 16px;
+    color: #001F2B;
+}
 p{
     font-family: inter;
     margin: 0;
@@ -44,6 +49,11 @@ p{
     line-height: 31px;
     text-align: center;
 
+    color: #00415A;
+}
+.judul-login{
+    font-weight: 700;
+    font-size: 32px;
     color: #00415A;
 }
 .subjudul-index{
@@ -110,4 +120,21 @@ p{
     font-weight: 400;
     font-size: 15px;
     box-shadow: 6px 6px 4px rgba(0, 0, 0, 0.1);
+}
+.modal-header{
+    border-bottom: 0px;
+}
+.modal-footer{
+    border-top: 0px;
+}
+.modal-body{
+    border-bottom: 0px;
+
+}
+.input-login{
+    width: 364px;
+    height: 45px;
+
+    background: rgba(0, 65, 90, 0.56);
+    border-radius: 10px;
 }
