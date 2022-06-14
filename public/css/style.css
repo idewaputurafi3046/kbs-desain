@@ -1,0 +1,133 @@
+*{
+    /* font-family: poppins; */
+    font-style: normal;
+    font-size: 16px;
+    font-weight: 600;
+    color: black;
+}
+.sidebar{
+    width: 300px;
+    height: 1200px;
+}
+.profile{
+    width: auto;
+    height: 250px;
+    background-color: #00415A;
+}
+.menubar{
+    background-color: white;
+    height: 1000px;
+}
+.content{
+    width: 100%;
+    background-color: #A8D1E0;
+}
+.icon-user{
+    font-size: 5.5rem;
+}
+.icon-search{
+    color: #00415A;
+    font-size: 1rem;
+}
+.icon-bell{
+    font-size: 2rem;
+}
+.font-user{
+    font-size: 26px;
+}
+.font-sidebar{
+    color: #00415A;
+    font-size: 15px;
+}
+.submenu{
+    color: #00415A;
+    font-size: 10px;
+}
+.select{
+    color: white;
+    background-color: #00415A;
+}
+.btn-nav{
+    height: 56px;
+    width: 100%;
+    padding: 5px;
+}
+.search-admin{
+    width: 787px;
+    height: 40px;
+    border-radius: 20px;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.1));
+}
+.btn-search-admin{
+    width: 65px;
+    background-color: white;
+    filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.1));
+    border-radius: 20px;
+}
+.judul-dashboard{
+    color: #000000;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 33px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+.subjudul-dashboard{
+    color: rgba(0, 0, 0, 0.5);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    text-shadow: 4px 4px 4px rgba(0, 0, 0, 0.15);
+}
+.rectangle{
+    margin-left : 60px;
+    width: 800px;
+    height: 450px;
+    left: 400px;
+    top: 240px;
+    background: #E1F1F8;
+    box-shadow: 8px 8px 4px rgba(0, 0, 0, 0.05);
+    border-radius: 0px 0px 10px 10px;E;
+}
+.rec-up{
+    margin-left: 60px;
+    width: 800px;
+    height: 9px;
+    left: 400px;
+    top: 240px;
+    background: #00729E;
+}
+.form{
+    padding-top: 74px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 141px;
+    margin: auto;
+}
+.input{
+    background: #FFFFFF;
+    border-radius: 5px;
+    margin-left: 50px;
+    width: inherit;
+}
+.judul{
+    padding: unset;
+    padding-top: 4px;
+}
+.dropdown{
+    padding-left: 63px;
+}
+#FMS{
+    word-wrap: normal;
+    width: 482px;
+    height: 36px;
+    border-radius: 5px;
+    position: relative;
+}
+.header{
+    padding-left: 60px;
+    padding-bottom: 20px;
+}
+.search{
+    padding-left: 60px;
+}
+
